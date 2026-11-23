@@ -27,7 +27,7 @@ Sou engenheiro eletricista pela UDESC. Na UFSC, concluí o mestrado em Engenhari
 **[Análise de demanda hospitalar](https://github.com/RicardoGuemba/Hospital_Demand_Distribution_Analyzer-)** · Explore o consumo intermitente de um produto, ajuste distribuições e simule o tempo até o estoque atingir o nível mínimo.
 
 - **Previsão por produto.** [DK Oficial](https://github.com/RicardoGuemba/DK_Oficial) concentra o script ARIMA para intervalos de seis horas. [DK](https://github.com/RicardoGuemba/DK) reúne os experimentos de pré-processamento, histogramas e previsão em diferentes intervalos.
-- **Preparação de movimentações.** O [simulador de demanda da RHG](https://github.com/RicardoGuemba/RHG_Gestao_Empresarial) transforma registros de movimentação em séries de consumo por produto.
+- **Preparação de movimentações.** O [simulador de demanda da DHS](https://github.com/RicardoGuemba/RHG_Gestao_Empresarial) transforma registros de movimentação em séries de consumo por produto.
 
 ## IA aplicada e engenharia de dados
 
@@ -38,4 +38,4 @@ Sou engenheiro eletricista pela UDESC. Na UFSC, concluí o mestrado em Engenhari
 
 ---
 
-[Apresentação institucional da RHG](https://github.com/RicardoGuemba/Projeto.html) · [Contato pelo LinkedIn](https://www.linkedin.com/in/ricardo-haus-guembarovski-3777ba8/)
+[Apresentação institucional da DHS](https://github.com/RicardoGuemba/Projeto.html) · [Contato pelo LinkedIn](https://www.linkedin.com/in/ricardo-haus-guembarovski-3777ba8/)
