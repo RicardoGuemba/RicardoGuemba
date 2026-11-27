@@ -1,6 +1,6 @@
 # Ricardo Haus Guembarovski
 
-Transformo imagens de câmeras e históricos de consumo em ferramentas de engenharia. Aqui você encontra aplicações que contam peças, medem distâncias e ajudam a estudar quando um estoque chegará ao mínimo.
+Desenvolvo soluções baseadas em Pesquisa Operacional e Inteligência Artificial pra solucionar problemas empresarias. Transformo imagens de câmeras e históricos de consumo em ferramentas de engenharia. Aqui você encontra aplicações que detectam, contam peças, medem distâncias, controlam processos visando otimização de processos industriais.
 
 Sou engenheiro eletricista pela UDESC. Na UFSC, concluí o mestrado em Engenharia de Produção e o doutorado em Engenharia e Gestão do Conhecimento.
 
